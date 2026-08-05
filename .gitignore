@@ -1,11 +1,3 @@
-# Data files (large NetCDF)
-data/
-data.zip
-
-# Figures (reproducible from notebook)
-figures/
-figures_v2/
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
@@ -18,6 +10,9 @@ __pycache__/
 
 # Debug scripts
 debug_check.py
+
+# Compressed archive
+data.zip
 
 # Reference PDFs (large, available online)
 *.pdf

@@ -1,0 +1,31 @@
+# Data files (large NetCDF)
+data/
+data.zip
+
+# Figures (reproducible from notebook)
+figures/
+figures_v2/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Debug scripts
+debug_check.py
+
+# Reference PDFs (large, available online)
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
